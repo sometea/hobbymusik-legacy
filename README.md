@@ -1,6 +1,7 @@
 # Hobbymusik
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0. This is the serverless version of the Hobbymusik
+website at hobbymusik.net. It should use Google Firebase as a backend.
 
 ## Development server
 
